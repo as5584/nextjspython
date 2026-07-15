@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5,
+    "original_url": "https://www.imdb.com/name/nm0352032/",
+    "short_url": "https://tinyurl.com/2y76qmmn",
+    "created_at": "2026-07-15 22:20:17"
+  },
+  {
+    "id": 4,
+    "original_url": "https://github.com",
+    "short_url": "https://tinyurl.com/5ra9gp",
+    "created_at": "2026-07-15 22:19:48"
+  },
+  {
+    "id": 3,
+    "original_url": "https://example.com/test-path",
+    "short_url": "https://tinyurl.com/2a3dfpds",
+    "created_at": "2026-07-15 22:18:24"
+  },
+  {
+    "id": 2,
+    "original_url": "https://www.imdb.com/name/nm0352032/",
+    "short_url": "https://tinyurl.com/2y76qmmn",
+    "created_at": "2026-07-15 22:16:39"
+  },
+  {
+    "id": 1,
+    "original_url": "https://www.geeksforgeeks.org/python/python-program-check-validity-password/",
+    "short_url": "https://tinyurl.com/28w4q2pa",
+    "created_at": "2026-07-10 15:40:25"
+  }
+]

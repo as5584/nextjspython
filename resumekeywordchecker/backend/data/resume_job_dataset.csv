@@ -1,0 +1,7 @@
+resume_text,job_description_text,expected_match_percentage,expected_matching_keywords,expected_missing_keywords
+"Experienced Python developer with skills in SQL, Django, HTML, CSS, and Git. Strong in data analysis using Pandas.","Python developer role requiring SQL, Django, AWS, Docker, Kubernetes, Git, and REST APIs.","60","Python,SQL,Django,Git","AWS,Docker,Kubernetes,REST APIs"
+"Java programmer skilled in Spring Boot, MySQL, HTML, JavaScript.","Senior Java Backend Engineer needing Spring Boot, Microservices, AWS, PostgreSQL, Docker.","50","Java,Spring Boot,MySQL,HTML,JavaScript","Microservices,AWS,PostgreSQL,Docker"
+"Data Scientist with expertise in Python, Machine Learning, TensorFlow, SQL, Tableau.","Data Analyst position: Python, SQL, Excel, Power BI, Statistics.","70","Python,SQL","Excel,Power BI,Statistics,Tableau vs TensorFlow"
+"Marketing professional experienced in SEO, Content Writing, Social Media, Google Analytics.","Digital Marketing Manager: SEO, SEM, Content Strategy, Facebook Ads, Google Ads, Analytics.","80","SEO,Content Writing,Social Media,Google Analytics","SEM,Facebook Ads,Google Ads"
+"Software Engineer with C++, Algorithms, Data Structures, Linux.","Embedded Systems Engineer: C, C++, RTOS, Embedded Linux, Hardware.","40","C++,Algorithms,Data Structures,Linux","C,RTOS,Embedded,Hardware"
+"Frontend Developer proficient in React, JavaScript, CSS, HTML, Redux.","Full Stack Developer: React, Node.js, Express, MongoDB, JavaScript.","50","React,JavaScript,CSS,HTML","Node.js,Express,MongoDB,Redux"

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "resume_text": "Experienced Python developer with skills in SQL, Django, HTML, CSS, Git, and Pandas for data analysis."
+  },
+  {
+    "id": 2,
+    "resume_text": "Java programmer skilled in Spring Boot, MySQL, REST APIs, HTML, and JavaScript."
+  },
+  {
+    "id": 3,
+    "resume_text": "Data Scientist proficient in Python, Machine Learning, TensorFlow, SQL, and Tableau."
+  },
+  {
+    "id": 4,
+    "resume_text": "Marketing professional with expertise in SEO, Content Writing, Social Media Marketing, and Google Analytics."
+  },
+  {
+    "id": 5,
+    "resume_text": "Software Engineer experienced in C++, Algorithms, Data Structures, and Linux systems."
+  }
+]

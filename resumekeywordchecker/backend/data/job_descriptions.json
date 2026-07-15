@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "job_description_text": "Python developer role requiring SQL, Django, AWS, Docker, Kubernetes, Git, and REST APIs."
+  },
+  {
+    "id": 2,
+    "job_description_text": "Senior Java Backend Engineer needing Spring Boot, Microservices, AWS, PostgreSQL, and Docker."
+  },
+  {
+    "id": 3,
+    "job_description_text": "Data Analyst position: Python, SQL, Excel, Power BI, and Statistics."
+  },
+  {
+    "id": 4,
+    "job_description_text": "Digital Marketing Manager: SEO, SEM, Content Strategy, Facebook Ads, Google Ads, and Analytics."
+  },
+  {
+    "id": 5,
+    "job_description_text": "Embedded Systems Engineer: C, C++, RTOS, Embedded Linux, and Hardware knowledge."
+  }
+]
